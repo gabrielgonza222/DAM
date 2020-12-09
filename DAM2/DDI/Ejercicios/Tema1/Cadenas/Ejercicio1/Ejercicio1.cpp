@@ -10,7 +10,7 @@ int main()
 	char *cad1 = (char*)malloc(30);
 	char cad2[15] = "";
 	char cad3[10] = "";
-	char cad4[10] = ""; 
+	char cad4[20] = ""; 
 	int tam;
 
 	printf("Introduce el nombre\n");
