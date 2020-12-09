@@ -10,6 +10,7 @@ int main()
 	char *cad1 = (char*)malloc(30);
 	char cad2[15] = "";
 	char cad3[10] = "";
+	char cad4[10] = ""; 
 	int tam;
 
 	printf("Introduce el nombre\n");
@@ -30,7 +31,7 @@ int main()
 
 	printf("El nombre y los apellidos son %s ", cad1);
 	printf("\n");
-	printf("El tamaño del nombre es %i ", tam);
+	printf("El tamaÃ±o del nombre es %i ", tam);
 	printf("\n");
 
 	system("pause");
